@@ -1,0 +1,5 @@
+# Set parameters for script
+
+# set all ticker symbol
+ticker.symbols = c("FNSR","CMI")
+
